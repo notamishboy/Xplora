@@ -18,8 +18,10 @@ cycler==0.11.0
 debugpy==1.6.0
 decorator==5.1.1
 defusedxml==0.7.1
+dj-database-url==1.2.0
 Django==4.0.5
 django-filter==22.1
+django-heroku==0.3.1
 django-multiupload==0.6.1
 entrypoints==0.4
 executing==0.8.3
@@ -31,6 +33,7 @@ google-auth==2.14.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.50.0
+gunicorn==20.1.0
 h5py==3.7.0
 idna==3.4
 ipykernel==6.12.1
@@ -120,5 +123,6 @@ urllib3==1.26.12
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.2.2
+whitenoise==6.3.0
 widgetsnbextension==3.6.0
 wrapt==1.14.1
